@@ -1,3 +1,8 @@
+Archieveing for reference purpose only.. Several works was done based on this little code :) very large projects 
+and Organizations used results from this cute little app. Lately I heard few IT Giants include code from this 
+and never acknowledge this work.
+
+
 -=|elfinfo|=-
 This Tool is essentially a ELF file parser, similar to eu-readelf, but have 
 a subset of functionality. This doesn't need libelf.
